@@ -75,16 +75,16 @@ const Footer = () => {
                 <ul className="footer-contact-info">
                   <li>
                     <Icon.MapPin />
-                    1022 St, Rushmore Dr, Allen, <br /> Texas 75002, USA
+                    1021, North Market Place, Ste 107-571 <br /> Pueblo, CO 81007 USA
                   </li>
                   <li>
                     <Icon.Mail />
                     Email:{" "}
-                    <a href="hello@byteifytechnologies.com">hello@byteifytechnologies.com</a>
+                    <a href="hello@byteifytechnologies.com">hello@byteifytech.com</a>
                   </li>
                   <li>
                     <Icon.PhoneCall />
-                    Phone: <a href="tel:321984754">+ (321) 984 754</a>
+                    Phone: <a href="tel:12056070338">+1 (205) 607 0338</a>
                   </li>
                 </ul>
                 <ul className="social-links">
